@@ -1,0 +1,2 @@
+# DinarCoin
+handsome
